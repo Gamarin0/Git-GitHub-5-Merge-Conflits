@@ -1,4 +1,4 @@
-LOCAL
+LOCAL LOCAL
 
 # Git-GitHub-5-Merge-Conflits
 
