@@ -1,5 +1,4 @@
-LOCAL
-
+REMOTE
 # Git-GitHub-5-Merge-Conflits
 
 blabla bla
